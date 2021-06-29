@@ -31,6 +31,6 @@ Manual to use the model:
 4. Analyse the data using global_analysis.py
 5. Do further analysis in the analysis.ipynb.
 
-
+The data used for all analysis in my Thesis is too large for Github and can be transfered on request.
 
 
